@@ -6,6 +6,6 @@ Third, Run "maven clean install" to build a war file in the ~/target folder. OR,
 
 Fourth, Deploy the war file to a Servlet container (Tomcat, Jetty etc.) or you can just use a server provided by the IDE you are using.
 
-Fifth, the ID and password is in ~/src/main/webapp/WEB-INF/spring-security.xml
+Fifth, the application ID and password is in ~/src/main/webapp/WEB-INF/spring-security.xml
 
 Last, have a fun!
