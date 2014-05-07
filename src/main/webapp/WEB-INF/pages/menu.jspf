@@ -1,0 +1,24 @@
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+        <div class="container">
+            <button type="button" class="btn btn-navbar" data-toggle="collapse"
+                    data-target=".nav-collapse">
+                <span class="icon-bar"></span> <span class="icon-bar"></span> <span
+                    class="icon-bar"></span>
+            </button>
+            <a class="brand" href="/">Delivery on Demand</a>
+
+            <div class="nav-collapse collapse">
+                <ul class="nav">
+                    <li><a href="/">Demand</a></li>
+                    <li><a href="/buildings">Buildings</a></li>
+                    <li><a href="/rooms">Rooms</a></li>
+                    <li><a href="/items">Items</a></li>
+                    <li><a href="/demandhistory">Demand History</a></li>
+                    <li><a href="/shortagepredictor">Predictor</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
